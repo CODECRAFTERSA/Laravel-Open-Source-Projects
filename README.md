@@ -18,7 +18,7 @@
 | [Laravel-Auth](https://github.com/jeremykenedy/laravel-auth) [P]	| Laravel 5.2 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection.	| [jeremykenedy]() |
 | [laravel-admin](https://github.com/jeremykenedy/laravel-admin) [P] | A Laravel 5.2.x, Bootstrap 3.5.x, and AdminLTE 2.3.x. project. |  [jeremykenedy]() |
 | [laravel-admin](https://github.com/z-song/laravel-admin) [P] |  A Laravel 5.5.x, PHP 7.0.x and AdminLTE project | [z-song]((https://github.com/z-song) |
-| [Laravel Angular Time Tracker](https://github.com/jeremykenedy/laravel-time-tracker) [P] | Laravel Angular Time Tracker is a simple time tracking application built on Laravel 5.2, Angular 2, and Bootstrap 3. It uses Laravel's built-in Authentication, MySQL, Angular Bootstrap 1.3., Angular Resource 1.5. ngResource, jQuery 2.2.4 and Moment.js 2.13.* | [jeremykenedy]() |
+| [Laravel Angular Time Tracker](https://github.com/jeremykenedy/laravel-time-tracker) [P] | Laravel Angular Time Tracker is a simple time tracking application built on Laravel 5.2, Angular 2, and Bootstrap 3. It uses Laravel's built in Auhentication, MySQL, Angular Bootstrap 1.3., Angular Resource 1.5. ngResource, jQuery 2.2.4 and Moment.js 2.13.* | [jeremykenedy]() |
 
 ## <a name="B"> </a>B
 
@@ -30,7 +30,7 @@
 | [LaraBug](https://github.com/Cannonb4ll/LaraBug) [P] | Error reporting tool for Laravel | [cannonb4ll]()|
 |   [Laravel-Backpack](https://github.com/laravel-backpack/base) [P]                   |   Backpack helps you build custom admin panels 10x faster.           |		[Laravel-Backpack]()			|	
 | [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) [P] 	| This project is to be served as a basis for a fully fledged web application, it is constantly evolving and has many contributors	| [rappasoft]() |
-| [Laravel Browser Notification](https://github.com/bpocallaghan/notify) [P] | Notify alert boxes to the browser with sound and font awesome icons and give it a timeout to fly out. Works great to notify the user after a successful action (CRUD). Flash the information from Laravel or create multiple from javascript. | [bpocallaghan]() |
+| [Laravel Browser Notification](https://github.com/bpocallaghan/notify) [P] | Notify alert boxes to the browser with sound and font awesome icons and give it a timeout to fly out. Works great to notify the user after a successfull action (CRUD). Flash the information from Laravel or create multiple from javascript. | [bpocallaghan]() |
 | [Laravel Backbone-Todo-MVC](https://github.com/msurguy/LaravelBackboneTodoMVC) [T] | Using Laravel 3 and Backbone.js framework for simple To-do manager | [msurguy]()|
 | [Laravel Backbone-Pagination](https://github.com/msurguy/laravel-backbone-pagination) [T] | Awesome in-place pagination using Laravel + Backbone, also a tutorial | [msurguy]()|
 
@@ -72,8 +72,8 @@
 | [Laravel Flarum](https://github.com/flarum/core) [P] | Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free. | [flarum]() |
 | [Laravel-Flyer-Generator](https://github.com/msurguy/missingpetflyer) [T] | A flyer generator with AJAX upload | [msurguy]() |	
 | [Laravel Flash Alert](https://github.com/bpocallaghan/alert) [P] | A helper package to flash a bootstrap alert to the browser via a Facade or a helper function.| [bpocallaghan]() |
-| [Laravel FTP](https://github.com/Cannonb4ll/LaravelFtp) [P] | An FTP helper package for Laravel for Laravel | [cannonb4ll]() |
-| [Laravel FreeScout](https://github.com/freescout-helpdesk/freescout) [P] | FreeScout is the super lightweight free, open source help desk and shared inbox written in PHP7 (Laravel 5.5 framework) – self hosted clone of HelpScout. | [FreeScout](https://github.com/freescout-helpdesk) |
+| [Laravel FTP](https://github.com/Cannonb4ll/LaravelFtp) [P] | A FTP helper package for Laravel | [cannonb4ll]() |
+| [Laravel FreeScout](https://github.com/freescout-helpdesk/freescout) [P] | FreeScout is the super lightweight free open source help desk and shared inbox written in PHP7 (Laravel 5.5 framework) – self hosted clone of HelpScout. | [FreeScout](https://github.com/freescout-helpdesk) |
 
 ## <a name="G"> </a>G
 
@@ -97,9 +97,9 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |  [Interactive Make](https://packagist.org/packages/laracademy/interactive-make) [P] | Interactive make is a CLI package for the command `php artisan make` | [laracademy]()|
-|  [Laravel Invoice Ninja](https://github.com/invoiceninja/invoiceninja) [P]   | Invoice Ninja is a free, open-source solution for invoicing and billing customers. With Invoice Ninja, you can easily build and send beautiful invoices from any device that has access to the web. Your clients can print your invoices, download them as PDF files, and even pay you online from within the system. |[invoiceninja]()|	
+|  [Laravel Invoice Ninja](https://github.com/invoiceninja/invoiceninja) [P]   | Invoice Ninja is a free, open-source solution for invoicing and billing customers. With Invoice Ninja, you can easily build and send beautiful invoices from any device that has access to the web. Your clients can print your invoices, download them as pdf files, and even pay you online from within the system. |[invoiceninja]()|	
 |  [InfyOm Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) [P]   | Laravel API and CRUD Generator for AdminLTE and CoreUI themes along with repository pattern and unit tests. |[infyomlabs](https://github.com/InfyOmLabs)|
-|  [Laravel Image Handler](https://github.com/codepane/laravel-image-handler) [P]   | Handle images in multiple different sizes with optimization. |[codepane](https://github.com/codepane)|
+|  [Laravel Image Handler](https://github.com/codepane/laravel-image-handler) [P]   | Handle image in multiple different size with optimization. |[codepane](https://github.com/codepane)|
 
 ## <a name="J"> </a>J
 
@@ -120,7 +120,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-| [LaraAdmin](https://github.com/dwijitsolutions/laraadmin) [P]	| LaraAdmin is an Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel and saves at least 40% of development time over Admin Panels. | [dwijitsolutions]()|
+| [LaraAdmin](https://github.com/dwijitsolutions/laraadmin) [P]	| LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel and saves at least 40% of development time over Admin Panels. | [dwijitsolutions]()|
 |     [Larablog](https://github.com/jeremykenedy/larablog)[P]                  |  A powerful Laravel CRUD (Create Read Update Delete) blog built on Laravel 5.1 and Bootstrap 3.5.x  |		[jeremykenedy]()		|	
 | [Laracademy Generators](https://packagist.org/packages/laracademy/generators) [P] | Laracademy Generators is a package that will generate models based on your database table(s). | [Laracademy]() |
 | [Laracogs](https://github.com/YABhq/Laracogs) [P] | Laracogs is a package which can be added to any Laravel 5.1+ app which comes with a handful of commands and helpers to speed up your app development. Laracogs comes with a clean cut starter kit to initialize your app with authentication, admins, teams and all their views. | [Yabhq]() |
@@ -147,7 +147,7 @@
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |     [laravel-Nerds](https://github.com/jeremykenedy/laravel-nerds)[T] | A Laravel 5.1 ORM example with Nerds as users    |				[jeremykenedy]()	|
 |     [laravel-newsletter](https://github.com/NathanGeerinck/laravel-newsletter)[P] | Laravel Newsletter gives you the possibility to send a newsletter with use of an external email driver like MailGun.    |				[NathanGeerinck]()	|
-| [Laravel Newsletter Manager](http://github.com/arvernester/newsletter) [P] |	Newsletter manager is application to manage templates, subscribers, and newsletter built with Laravel Framework. This application uses built-in features of Laravel like as Scout and Mail Queue, etc. | [arvernester]() |	
+| [Laravel Newsletter Manager](http://github.com/arvernester/newsletter) [P] |	Newsletter manager is application to manage templates, subscribers, and newsletter built with Laravel Framework. This application using built-in features by Laravel like as Scout and Mail Queue, etc. | [arvernester]() |	
 
 ## <a name="O"> </a>O
 
@@ -156,7 +156,7 @@
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Laravel-October CMS](https://octobercms.com/) | October is a free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. A simple and modular CMS that grows with you, with a precise and beautiful interface that comes as second nature. | [octobercms](https://github.com/octobercms)
 | [Laravel-Opus](https://github.com/zeeshanu/opus)	| As companies grow, it becomes difficult to manage and communicate the knowledge across different departments, Opus acts as a single source of truth; a go-to place for the employees to get knowledge. It gives enterprises the power to create anything and everything; from meeting notes, project plans, product requirements, technical documentations, orchestrate processes, work-flows and more.	| [zeeshanu]()	|
-| [Laravel-OrgManager](https://github.com/m1guelpf/orgmanager)[P] | A GitHub Organization Invite Generator built using Laravel | [orgmanager]()	|
+| [Laravel-OrgManager](https://github.com/m1guelpf/orgmanager)[P] | A Github Organization Invite Generator build using Laravel | [orgmanager]()	|
 |    [Laravel-Orchid](https://github.com/TheOrchid/Platform)[P]                   |        Orchid PHP is an application that allows you to** quickly write simple** but powerful websites and applications. The main emphasis is on rapid prototyping and different content.       |			[TheOrchid]()		|	
 | [Laravel-Origin CMS](https://github.com/akhileshdarjee/origin-cms)	| Origin CMS for Laravel 5.2.* to kickstart your web applications.	| [akhileshdarjee]()	|
 
@@ -189,7 +189,7 @@
 | 		[Laravel RecipeManager (Api)](https://github.com/ammannbe/RecipeManagerApi) [P] | Modern webapp to manage your recipes like a chef | [ammannbe](https://github.com/ammannbe) |
 |    [laravel-robots-txt](https://github.com/OwenMelbz/laravel-robots-txt) [P]                   |   Laravel 5.x helpers for a semi-automated robots.txt and meta tags            |		[owenmelbz]()			|
 | [Laravel Roles](https://github.com/jeremykenedy/laravel-roles)[P] 	| A Powerful package for handling roles and permissions in Laravel 5.4	| [jeremykenedy]()|	
-| [Laravel Resource Controllers](https://github.com/Dotunj/Payo)[T] 	| Demo application and a tutorial for performing CRUD operations using resource controllers	| [dotunj]()|	
+| [Laravel Resource Controllers](https://github.com/Dotunj/Payo)[T] 	| Demo application and a tutorial for performing crud operations using resource controllers	| [dotunj]()|	
 
 ## <a name="S"> </a>S
 
@@ -214,26 +214,26 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-| [Laravel Talk](https://github.com/nahid/talk) | Talk is a Laravel 5 based user conversation (inbox) system with real-time messaging | [nahid]()|
+| [Laravel Talk](https://github.com/nahid/talk) | Talk is a Laravel 5 based user conversation (inbox) system with realtime messaging | [nahid]()|
 | [Laravel-Tasks](https://github.com/jeremykenedy/laravel-tasks)[T] | An app of tasks lists for each individual user. Built on Laravel 5.2, using 5.2 authentication and middleware. This has robust verbose examples using Laravel best practices.| [jeremykenedy]()	|
-| [Laravel Tech Detector](https://github.com/ppshobi/tech-detector)[P] | The goal of Technology Detector is to help web developers, Security researchers, Domain Buyers and web designers find out what technologies web pages are using which might help them to decide what technologies to implement themselves. This application can track country, state, city, latitude and longitude of an IP address. | [ppshobi]() | 
+| [Laravel Tech Detector](https://github.com/ppshobi/tech-detector)[P] | The goal of Technology Detector is to help web developers, Security researchers, Domain Buyers and web designers find out what technologies web pages are using which might help them to decide what technologies to implement themselves.This application can track country, state, city, latitude and longitude of an IP address. | [ppshobi]() | 
 |[Laravel-Themevel](https://github.com/Shipu/themevel) |	Themevel is a Laravel 5 theme and asset management package. You can easily integrate this package with any Laravel based project.| [Shipu]()	|
 | [Laravel-Timegrid](https://github.com/timegridio/timegrid) [P] | Timegrid helps contractors and customers to find the perfect meeting time through online appointments. | [timegridio]() |
-|   [Laravel-translate](https://github.com/vortgo/laravel-translate)[P]                    |         Translate system for Laravel project      |		[vortgo]()			|	
+|   [Laravel-translate](https://github.com/vortgo/laravel-translate)[P]                    |         Translate system for laravel project      |		[vortgo]()			|	
 
 ## <a name="U"> </a>U
 
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|    [Laravel Users](https://github.com/jeremykenedy/laravel-users) [P]                   |   A User Management Package that includes all necessary routes, views, models, and controllers for a user management dashboard and associated pages for managing Laravels built-in user scaffolding. Built for Laravel 5.2, 5.3, and 5.4+.          |		[jeremykenedy]()			|	
+|    [Laravel Users](https://github.com/jeremykenedy/laravel-users) [P]                   |   A Users Management Package that includes all necessary routes, views, models, and controllers for a user management dashboard and associated pages for managing Laravels built in user scaffolding. Built for Laravel 5.2, 5.3, and 5.4+.          |		[jeremykenedy]()			|	
 
 ## <a name="V"> </a>V
 
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|   [Laravel Voyager](https://github.com/the-control-group/voyager) [P]                    |     Voyager is a Laravel Admin package. With Voyager you can have an Admin setup for your Laravel application in seconds. Voyager is fully extendible and it has a beautiful User Interface.          |	[the-control-group]()				|	
+|   [Laravel Voyager](https://github.com/the-control-group/voyager) [P]                    |     Voyager is a Laravel Admin package. With Voyager you can have an Admin setup for your laravel application in seconds. Voyager is fully extendible and it has a beautiful User Interface.          |	[the-control-group]()				|	
 
 ## <a name="W"> </a>W
 
